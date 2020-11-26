@@ -33,7 +33,7 @@ Job seekers often find it hard to find information without people around them. S
 ### Hard points
 Communication was the most difficult because 6 people were working on the project. When I was doing it alone, I was free to design and name, but since I was working together, I needed a clear reference point. I didn't use it in this project, but I got to know interface as a way to create this uniform standard in collaboration.
 
-###Technical use
+### Technical use
 - Maven.
 - Lombok
 - SLF4j
